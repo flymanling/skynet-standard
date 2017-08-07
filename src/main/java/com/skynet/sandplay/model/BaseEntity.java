@@ -1,4 +1,4 @@
-package com.skynet.standard.model;
+package com.skynet.sandplay.model;
 
 import java.io.Serializable;  
 import java.util.Date;  

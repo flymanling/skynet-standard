@@ -1,4 +1,4 @@
-package com.skynet.standard.dao;
+package com.skynet.sandplay.dao;
 
 import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
@@ -10,7 +10,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Repository;
 
-@Repository
+@Repository("baseDao")
 public class BaseDaoImpl <T, PK extends Serializable> implements IBaseDao<T, PK>{  
     
   private Class<T> entityClass;  

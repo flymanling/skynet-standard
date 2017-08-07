@@ -1,4 +1,4 @@
-package com.skynet.standard.model;
+package com.skynet.sandplay.model;
 
 import javax.persistence.Entity;
 

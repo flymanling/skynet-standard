@@ -1,10 +1,10 @@
-package com.skynet.standard;
+package com.skynet.sandplay;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.skynet.standard.model.User;
-import com.skynet.standard.service.IBaseService;
+import com.skynet.sandplay.model.User;
+import com.skynet.sandplay.service.IBaseService;
 
 /**
  * Hello world!

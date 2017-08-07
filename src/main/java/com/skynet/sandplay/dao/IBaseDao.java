@@ -1,4 +1,4 @@
-package com.skynet.standard.dao;
+package com.skynet.sandplay.dao;
 
 import java.io.Serializable;
 

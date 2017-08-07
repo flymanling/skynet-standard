@@ -1,4 +1,4 @@
-package com.skynet.standard.service;
+package com.skynet.sandplay.service;
 
 import java.io.Serializable;
 
