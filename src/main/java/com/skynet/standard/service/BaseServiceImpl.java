@@ -1,4 +1,4 @@
-package com.skynet.sandplay.service;
+package com.skynet.standard.service;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -7,8 +7,8 @@ import javax.annotation.Resource;
 
 import org.springframework.stereotype.Service;
 
-import com.skynet.sandplay.dao.IBaseDao;
-import com.skynet.sandplay.model.BaseEntity;
+import com.skynet.standard.dao.IBaseDao;
+import com.skynet.standard.model.BaseEntity;
 
 //@Transactional
 @Service("baseService")
